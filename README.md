@@ -1,2 +1,4 @@
 # desenvolve-python-basico
-Projeto Dee
+Projeto Desenvolve - Bom Despacho
+Programação básica com Python
+pdbd248
